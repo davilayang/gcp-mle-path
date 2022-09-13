@@ -1,6 +1,8 @@
 # Framing a machine learning problem
 
+<!-- markdownlint-disable MD034 -->
 - https://www.cloudskillsboost.google/course_sessions/1577813/video/320594
+<!-- markdownlint-enable MD034 -->
 
 ## Guides
 
@@ -23,8 +25,7 @@
       - i.e. proper representation of the user
    - data on product's category, name, color, spec...etc
       - i.e. proper representation of the product
-2. 
-
+2. ...
 
 ### Retail: Market segmentation and targeting
 
