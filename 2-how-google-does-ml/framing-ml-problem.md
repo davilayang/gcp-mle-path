@@ -14,7 +14,9 @@
    - who will use the service
    - how it is done today
 3. cast it in the framework of a data problem
-   - what are some key actions to collect, analyze, predict, and react to the data or predictions
+   - what kind of data needs to be collected
+   - key actions to collect, analyze, predict, 
+   - react to the data or predictions
 
 ## Tries
 
@@ -29,4 +31,4 @@
 
 ### Retail: Market segmentation and targeting
 
-## Energy: Customer-specific pricing
+### Energy: Customer-specific pricing
