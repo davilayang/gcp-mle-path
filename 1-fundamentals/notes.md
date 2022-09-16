@@ -3,15 +3,10 @@
 ## Thoughts
 
 - Use BigQueryML in works? Some kind of recommendations? 
-- Problem Framing, 
-
-- BigQuery ML supports modeling training, is there something we could use with "recommendation" or with ideas from reforge?
-- define business problems, i should have better ideas about what our problem is before getting into modelling  or others
-  - then, next would be to evaluate and improve model results
-  - so, what is the real problem with our recommendation stuff?
-- examples to apply machine learning capability, (within our context)
-- this is creative work: linking what I know (with ML) to what the company needs 
-  - something I find intersting
+- Problem Framing, having a better idea with the problem before getting into modelling
+- Interesting to me in exploring ML solutions to business problems
+  - user engagement
+  - product delivery and discovery
 
 ### Notes & Quotes
 
