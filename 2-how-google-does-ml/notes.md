@@ -1,7 +1,24 @@
 # Notes on "How Google Does Machine Learning"
 
-## Quotes
+## Quotes & Notes
 
+## 10 Common Pitfalls
+
+- [10 Common Pitfalls](https://www.cloudskillsboost.google/course_sessions/1577813/video/320602)
+  1. ML requires just as much software infrastructure (comparing to API and other know software services)
+  2. No data collected
+  3. Assume the data is ready to use (maybe not)
+  4. Forget to keep humans in the loop (every system needs this)
+  5. Product launch focuses on the ML algorithm
+  6. ML optimizing for the wrong thing, always look out for perverse incentives
+  7. Is your ML improving things in the real world? Not just in development environment
+  8. Using a pre-trained ML algorithm vs building your own
+  9. ML algorithms are trained more than once, i.e. Continuous Training
+  10. Trying to design your own NLP algorithm
+- Machine learning is about scaling beyond handwritten rules
+- You might be thinking of ML as a way to do the things in the middle, of being able to take the data you happen to have and train the ML model, but think of ML as a way to get to kind of the things on the right, of being able to personalize your services for each of your customers
+- An ML strategy is first and foremost a data strategy
+- In short, if you can't do analytics, you can't do ML
 - Avoid the trap of thinking of building monolithic "one model solves the whole problem" solutions.
   - models are built to solve smaller problems
 - What kind of problems can it solve?
